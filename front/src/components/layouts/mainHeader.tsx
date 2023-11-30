@@ -9,19 +9,19 @@ const MainHeader = () => {
         onClick={() => {
           navigate("/main");
         }}>
-        main
+        메인화면
       </button>
       <button
         onClick={() => {
           navigate("/kk");
         }}>
-        kk
+        준비중1
       </button>
       <button
         onClick={() => {
           navigate("/aa");
         }}>
-        aa
+        준비중2
       </button>
     </header>
   );
